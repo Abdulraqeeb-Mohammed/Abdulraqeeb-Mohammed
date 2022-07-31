@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdulraqeeb-Mohammed
 - 👀 I’m interested in server side programming
-- 🌱 I’m currently learning spring framework.
+- 🌱 I’m currently working as a full time Software engineer, and often play with  Springboot framework.
 - 💞️ I’m looking to collaborate on open source Java projects
 - 📫 How to reach me : abdo.itis@gmail.com
 
